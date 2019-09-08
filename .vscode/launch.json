@@ -6,7 +6,7 @@
     "configurations": [
         {
             "type": "java",
-            "name": "App.java",
+            "name": "java",
             "request": "launch",
             "mainClass": "App"
         }

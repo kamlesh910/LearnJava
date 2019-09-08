@@ -79,6 +79,8 @@ public class Student
 
 	public void printstud()
 	{
+
+        System.out.println("----------------");
 		System.out.println(getid());
 		System.out.println(getname());
 		System.out.println(getcontact());
